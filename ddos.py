@@ -2,13 +2,10 @@ import telebot
 import subprocess
 import socket
 import sys
-
+bot /start
 # Telegram API token
-TOKEN = "YOUR TOKEN HERE"
-
-
-# Admin chat ID
-ADMIN_CHAT_ID = YOUR_ID_HERE
+TOKEN = 7108624217:AAHnpBNtXzbkSoL3G6eMemCCj7Kz75oZUYE
+bot(message )
 
 # Initialize bot
 bot = telebot.TeleBot(TOKEN)
