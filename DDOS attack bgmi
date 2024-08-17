@@ -1,6 +1,6 @@
 ![DDOS](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-botnet/ddos-botnet-attack-cropped.png)
 ---
-
+token 7108624217:AAFVLGYiU3DacHumuALNaoN4Uzh1ymQRXYg
 # DDOS-Telegram-BOT
 
 ## Overview
@@ -28,9 +28,9 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
     git clone https://github.com/Mustafa1p/DDOS-Telegram-BOT.git
     ```
 
-2. Obtain your Telegram API token and replace `YOUR_TOKEN_HERE` in the script with your actual token.
+2. Obtain your Telegram API token and replace `YOUR_ 7108624217:AAFVLGYiU3DacHumuALNaoN4Uzh1ymQRXYgin the script with your actual token.
 
-3. Set your admin chat ID in the `ADMIN_CHAT_ID` variable to receive error notifications.
+3. Set your admin chat ID in the `ADMIN_ID` variable to receive error notifications.
 
 ## Usage
 
